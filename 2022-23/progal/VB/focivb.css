@@ -1,0 +1,29 @@
+table {
+    align-items: center;
+    width: fit-content;
+    border: black solid 2px;
+    border-collapse: collapse;
+}
+.tipp {
+    text-align: center;
+} 
+body {
+    background-image: url("letöltés.png");
+    background-repeat: no-repeat;
+    background-position: 600px 1%;
+    /* background-color: rgb(255, 226, 254); */
+    image-resolution: 19200 1080;
+}
+.justify {
+    width: 40%;
+    text-align: justify;
+}
+.image {
+margin-left: 5%;
+}
+h1 {
+    margin-left: 15%;
+}
+.kepkizart {
+    image
+}
